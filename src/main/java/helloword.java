@@ -6,11 +6,6 @@
 public class helloword {
     public static void main(String[] args) {
         System.out.println("大当家哈斯科技的");
-        System.out.println("大当家哈斯科技的");
-        System.out.println("大当家哈斯科技的");
-        System.out.println("大当家哈斯科技的");
-        System.out.println("大当家哈斯科技的");
-        System.out.println("大当家哈斯科技的");
-        System.out.println("大当家哈斯科技的");
+     
     }
 }
